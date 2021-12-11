@@ -1,4 +1,4 @@
- import logging
+import logging
 from http import HTTPStatus
 
 from locust import HttpLocust, TaskSet, constant, task
