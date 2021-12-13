@@ -3,10 +3,10 @@
 Пример решения вступительного испытания 2019г. в Школу бэкенд‑разработки
 Яндекса.
 """
-__author__ = 'Alexander Vasin'
+__author__ = 'Kozyrev Sergey'
 __maintainer__ = __author__
 
-__email__ = 'alvassin@yandex.ru'
+__email__ = 'oikizak123@gmail.com'
 __license__ = 'MIT'
 __version__ = '0.0.1'
 

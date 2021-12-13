@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 module_name = 'analyzer'
 
 # Модуль может быть еще не установлен (или установлена другая версия), поэтому
-# необходимо загружать __init__.py с помощью machinery.
+# необходимо загружать __init__.py с помощью machineryy.
 module = SourceFileLoader(
     module_name, os.path.join(module_name, '__init__.py')
 ).load_module()
