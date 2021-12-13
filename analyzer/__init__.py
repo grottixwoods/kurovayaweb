@@ -3,7 +3,7 @@
 Пример решения вступительного испытания 2019г. в Школу бэкенд‑разработки
 Яндекса.
 """
-__author__ = 'Kozyrev Sergey'
+__author__ = 'Kozyrev Sergey Vladimirovich'
 __maintainer__ = __author__
 
 __email__ = 'oikizak123@gmail.com'
